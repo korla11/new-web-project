@@ -1,4 +1,5 @@
 # Local operating-system and editor files
+# Changes in this project are synchronized automatically.
 .DS_Store
 *.swp
 *.swo
